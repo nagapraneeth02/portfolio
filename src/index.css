@@ -2,17 +2,29 @@
   background-color: black;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial;
   padding-inline: 3rem;
-line-height: 1.1;
-font-weight: 400;
-font-synthesis: none;
-text-rendering: optimizeLegibility;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
+  line-height: 1.1;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 80%; /* Reduce the base font size by 20% */
 }
 
 html {
   scroll-behavior: smooth;
 }
+
+body {
+  transform: scale(0.9); /* Scale down all elements by 20% */
+  transform-origin: top left;
+}
+
+* {
+  box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+}
+
+
 
 
 .navbar {

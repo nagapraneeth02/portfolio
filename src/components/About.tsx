@@ -6,7 +6,7 @@ function AboutPage() {
       <h1>About</h1>
       <div className="about">
         <div>
-          <p>I'm a proffessional tennis player.</p>
+          <p>I'm a proffessional football player.</p>
         </div>
       </div>
     </div>

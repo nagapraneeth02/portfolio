@@ -21,10 +21,10 @@ function HomePage() {
 
         <div>
           <h1>Hello, I'm Naga Praneeth Cheela.</h1>
-          <h1>
+          <h2>
             I'm an aspiring data scientist looking for fulltime opportunities in
             Data science.
-          </h1>
+          </h2>
         </div>
       </div>
 

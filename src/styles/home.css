@@ -1,0 +1,30 @@
+.home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 4rem;
+    gap: 10rem;
+}
+
+.profile-pic {
+    height: 420px;
+    clip-path: circle();
+}
+
+.socials {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    color: white;
+}
+
+.social-icon {
+    fill: rgb(95, 95, 95);
+}
+
+.social-icon:hover {
+    fill: white;
+    cursor: pointer;
+}

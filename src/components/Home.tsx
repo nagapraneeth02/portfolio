@@ -7,8 +7,6 @@ import Education from "./Education";
 import About from "./About";
 
 function HomePage() {
-  const [darkMode, setDarkMode] = useState(true);
-
   return (
     <div className="box">
       <nav>

@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "../styles/home.css";
 import Projects from "./Projects";
 import "../../public/praneeth.jpg";

@@ -30,6 +30,45 @@ function Projects() {
 
       <div className="card">
         <h3 className="project-info">
+        Data Visualization Project (Power BI) | “Empowered Decision-Making for Retail Store”
+        </h3>
+        <ul>
+          <li>
+            Analyzed 13months of sales data using Power BI to identify the categories with low sales volumes and potential 
+            areas for improvement.
+    
+          </li>
+          <li>
+          Recommended strategic placement of low-selling items based on in-store observations, 
+          advised management on acquiring new displays, and implemented effective display strategies, 
+          resulting in a significant 30% increase in sales for targeted categories.
+          
+          </li>
+        </ul>
+       
+      </div>
+
+      <div className="card">
+        <h3 className="project-info">
+        Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage
+        </h3>
+        <ul>
+          <li>
+          Completed a simulation involving creating data visualizations for Tata Consultancy Services
+          </li>
+          <li>
+          Prepared questions for a meeting with client senior leadership
+          </li>
+          <li>
+          Created visuals for data analysis to help executives with effective decision making. 
+          </li>
+        </ul>
+       
+      </div>
+
+
+      <div className="card">
+        <h3 className="project-info">
           Predictive Analysis of Diabetes Status Using R-Programming
         </h3>
         <ul>
@@ -45,9 +84,29 @@ function Projects() {
           </li>
         </ul>
         <p>
-          <strong>Tech stack:</strong> R
+          <strong>Tech stack:</strong> R- Programming
         </p>
       </div>
+
+
+      <div className="card">
+        <h3 className="project-info">
+        Blockchain Technology in Telehealth and Telemedicine
+        </h3>
+        <ul>
+          <li>
+          Delved into a comprehensive examination of patient data security and privacy challenges within the healthcare sector.
+          </li>
+          <li>
+          Identified vulnerabilities within telemedicine's current security and privacy protocols.
+          </li>
+          <li>
+          Advocated for an innovative solution, integrating blockchain technology, decentralized identity management,
+           and cutting-edge encryption techniques, to enhance security and privacy policies.
+          </li>
+        </ul>
+      </div>
+
 
       <div className="card">
         <h3 className="project-info">Hospital Performance Analysis</h3>

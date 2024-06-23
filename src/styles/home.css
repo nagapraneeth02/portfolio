@@ -13,7 +13,7 @@
   
   .nav-items {
     display: flex;
-    gap: 5%;
+    gap: 12%;
   }
   
   .nav-item {
@@ -46,6 +46,8 @@
   
   .profile-pic {
     clip-path: circle();
+    width: 200px;
+    height: 200px;
   }
   .profile-pic:hover {
     cursor: pointer;

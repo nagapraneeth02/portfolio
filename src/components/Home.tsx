@@ -41,14 +41,13 @@ function HomePage() {
         <h2 className="heading">Naga Praneeth Cheela</h2>
         <div className="title-bio">
           <p>
-            I'm an aspiring data scientist looking for full time opportunities
-            in data science.
+            I'm an aspiring Data Analyst looking for full time opportunities
+            as a Data Analyst.
           </p>
           <p>
-            I've been working as a Knowledge Engineering Specialist in Caring
-            Community Partnership, Randolph county, leading the Machine Learning
-            dashboard team in developing Machine Learning models in PowerBI
-            dashboard to create decision suppoort tool.
+          I have been serving as a Knowledge Engineering Specialist at Randolph County Caring Community Partnership, 
+          where I lead the Machine Learning dashboard team. Our work focuses on developing Machine Learning models 
+          within PowerBI to create decision support tools.
           </p>
 
           <p>

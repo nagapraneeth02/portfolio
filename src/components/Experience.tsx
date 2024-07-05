@@ -11,20 +11,17 @@ function Experience() {
           (Randolph county)
         </h3>
         <ul>
-          <li>
-            Led the ML Dashboard team in developing machine learning models in
-            Power BI dashboard to create decision support tool in community
-            health, managing software installation, team coordination, and
-            delivering weekly progress reports.
-          </li>
-          <li>
-            Conducted literature reviews, collaborated on written content, and
-            presented project plans and results to RCCCP Project Managers,
-            integrating feedback to refine final deliverables
-          </li>
+        During my internship, I took on the role of leading the ML Dashboard team. 
+        My primary responsibility was to develop machine learning models within Power BI, 
+        aimed at creating decision support tools for community health. I successfully 
+        managed software installations, coordinated team efforts, and provided weekly 
+        progress reports. Additionally, I conducted thorough literature reviews, 
+        collaborated on written content, and presented project plans and results to 
+        RCCCP Project Managers. I integrated their feedback to refine and perfect the 
+        final deliverables.
         </ul>
         <p>
-          <strong>Tech stack:</strong> PowerBI, Tableu
+          <strong>Tech stack:</strong> PowerBI, Tableu, Machine Learning.
         </p>
       </div>
 
@@ -33,11 +30,10 @@ function Experience() {
           Research Assistant - Indiana University
         </h3>
         <ul>
-          <li>
-            Spearheaded the development of a global health informatics database,
-            emphasizing data management and analysis using SQL and Power BI,
-            aligning with focus on data-driven insights and benchmarking.
-          </li>
+        Spearheaded the development of a global health informatics database, focusing on 
+        data management and analysis using SQL and Power BI. This project emphasized the 
+        importance of data-driven insights and benchmarking, aligning with our goal to 
+        enhance decision-making processes through comprehensive data analysis.
         </ul>
         <p>
           <strong>Tech stack:</strong> SQL, PowerBI
@@ -49,15 +45,10 @@ function Experience() {
           Teaching Assistant - Indiana University
         </h3>
         <ul>
-          <li>
-            Assisted in planning and conducting Assignments and quizzes on
-            informatics concepts.
-          </li>
-          <li>Conducted tutorials to help students understanding concepts.</li>
-          <li>
-            Graded assignments, tests, and projects, as well as kept correct
-            records and provided constructive feedback.
-          </li>
+        I assisted in planning and conducting assignments and quizzes on informatics concepts.
+        I conducted tutorials to help students understand these concepts better. Additionally, 
+        I graded assignments, tests, and projects, maintained accurate records, and provided 
+        constructive feedback to support student learning and improvement.
         </ul>
         <p>
           <strong>Tech stack:</strong> Microsoft Office Suite
